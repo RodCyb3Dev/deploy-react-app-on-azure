@@ -1,0 +1,251 @@
+{
+	"result": {
+		"ok": 1,
+		"n": 15
+	},
+	"ops": [
+		{
+			"id": "1",
+			"tags": [
+				"Deployment"
+			],
+			"name": "Docker",
+			"description": "The Docker container-based platform deployment system",
+			"author": "Docker",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/docker.png",
+			"_id": "5eb10b654b194130d08121a1"
+		},
+		{
+			"id": "2",
+			"tags": [
+				"Service"
+			],
+			"name": "Trello",
+			"description": "The Trello project management service",
+			"author": "Trello",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/trello.png",
+			"_id": "5eb10b654b194130d08121a2"
+		},
+		{
+			"id": "3",
+			"tags": [
+				"Framework"
+			],
+			"name": "Ember",
+			"description": "The Ember JavaScript framework",
+			"author": "Ember",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/ember.png",
+			"_id": "5eb10b654b194130d08121a3"
+		},
+		{
+			"id": "4",
+			"tags": [
+				"Language"
+			],
+			"name": "Go",
+			"description": "The Go programming langauge",
+			"author": "Google",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/go.png",
+			"_id": "5eb10b654b194130d08121a4"
+		},
+		{
+			"id": "5",
+			"tags": [
+				"Language"
+			],
+			"name": "TypeScript",
+			"description": "The TypeScript programming langauge",
+			"author": "Microsoft",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/typescript.png",
+			"_id": "5eb10b654b194130d08121a5"
+		},
+		{
+			"id": "6",
+			"tags": [
+				"Tooling"
+			],
+			"name": "Git",
+			"description": "The Git version control system",
+			"author": "Git",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/git.png",
+			"_id": "5eb10b654b194130d08121a6"
+		},
+		{
+			"id": "7",
+			"tags": [
+				"Language"
+			],
+			"name": "Markdown",
+			"description": "The Markdown document language",
+			"author": "Markdown",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/markdown.png",
+			"_id": "5eb10b654b194130d08121a7"
+		},
+		{
+			"id": "8",
+			"tags": [
+				"Deployment"
+			],
+			"name": "Travis CI",
+			"description": "The Travis CI integration service",
+			"author": "Travis CI",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/travisci.png",
+			"_id": "5eb10b654b194130d08121a8"
+		},
+		{
+			"id": "9",
+			"tags": [
+				"Deployment"
+			],
+			"name": "Kubernetes",
+			"description": "The Kubernetes container deployment system",
+			"author": "Kubernetes",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/kubernetes.png",
+			"_id": "5eb10b654b194130d08121a9"
+		},
+		{
+			"id": "10",
+			"tags": [
+				"Protocol"
+			],
+			"name": "OAuth",
+			"description": "The OAuth authentication protocol",
+			"author": "OAuth",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/oauth.png",
+			"_id": "5eb10b654b194130d08121aa"
+		},
+		{
+			"id": "11",
+			"tags": [
+				"Service"
+			],
+			"name": "MailChimp",
+			"description": "MailChimp provides email marketing services",
+			"author": "MailChimp",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/mailchimp.png",
+			"_id": "5eb10b654b194130d08121ab"
+		},
+		{
+			"id": "12",
+			"tags": [
+				"Framework"
+			],
+			"name": "Bootstrap",
+			"description": "The Bootstrap CSS client framework",
+			"author": "Twitter",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/bootstrap.png",
+			"_id": "5eb10b654b194130d08121ac"
+		},
+		{
+			"id": "13",
+			"tags": [
+				"Language"
+			],
+			"name": "Rust",
+			"description": "The Rust programming langauge",
+			"author": "Mozilla",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/rust.png",
+			"_id": "5eb10b654b194130d08121ad"
+		},
+		{
+			"id": "14",
+			"tags": [
+				"Service"
+			],
+			"name": "Open Source Initiative",
+			"description": "The Open Source Initiative non-profit foundation",
+			"author": "OSI",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/osi.png",
+			"_id": "5eb10b654b194130d08121ae"
+		},
+		{
+			"id": "15",
+			"tags": [
+				"Language"
+			],
+			"name": "Ruby",
+			"description": "The Ruby programming langauge",
+			"author": "Ruby Community",
+			"size": {
+				"width": "2in",
+				"height": "2in"
+			},
+			"image": "/img/logo/ruby.png",
+			"_id": "5eb10b654b194130d08121af"
+		}
+	],
+	"insertedCount": 15,
+	"insertedIds": {
+		"0": "5eb10b654b194130d08121a1",
+		"1": "5eb10b654b194130d08121a2",
+		"2": "5eb10b654b194130d08121a3",
+		"3": "5eb10b654b194130d08121a4",
+		"4": "5eb10b654b194130d08121a5",
+		"5": "5eb10b654b194130d08121a6",
+		"6": "5eb10b654b194130d08121a7",
+		"7": "5eb10b654b194130d08121a8",
+		"8": "5eb10b654b194130d08121a9",
+		"9": "5eb10b654b194130d08121aa",
+		"10": "5eb10b654b194130d08121ab",
+		"11": "5eb10b654b194130d08121ac",
+		"12": "5eb10b654b194130d08121ad",
+		"13": "5eb10b654b194130d08121ae",
+		"14": "5eb10b654b194130d08121af"
+	}
+}

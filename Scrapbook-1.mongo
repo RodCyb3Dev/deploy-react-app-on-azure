@@ -57,7 +57,7 @@ db.stickers.insertMany([
   }, {
     id: '6',
     tags: [ 'Tooling' ],
-    name: 'Git',
+    name: 'Git cool',
     description: 'The Git version control system',
     author: 'Git',
     size: {
