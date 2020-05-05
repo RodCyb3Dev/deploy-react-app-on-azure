@@ -9,7 +9,7 @@
 			"tags": [
 				"Deployment"
 			],
-			"name": "Docker",
+			"name": "Docker info",
 			"description": "The Docker container-based platform deployment system",
 			"author": "Docker",
 			"size": {
